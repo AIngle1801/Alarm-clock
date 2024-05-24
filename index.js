@@ -1,4 +1,5 @@
 // Sound clip when the alarm starts
+//comment
 var sound = new Audio("Alarm first song.mp3")
 sound.loop = true;
 
@@ -11,6 +12,7 @@ let colorChange = document.getElementsByClassName("time")
 let incompleteAlarmsholder = document.getElementById("incomplete-alarms")
 
 // Wall clock 
+// comment
 
 let hrwall = document.querySelector('#hrwall');
 let mn = document.querySelector('#mn');
